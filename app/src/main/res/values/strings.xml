@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Open Door</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="dica_busca">Digite o número do conjunto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_conjuntos">ListConjuntos</string>
+</resources>

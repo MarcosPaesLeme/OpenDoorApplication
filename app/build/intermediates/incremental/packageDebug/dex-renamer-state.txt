@@ -1,0 +1,7 @@
+#Sun Oct 15 13:59:18 BRST 2017
+base.0=C\:\\Users\\Rafaela\\AndroidStudioProjects\\OpenDoorApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eccb7b1c4399063bb4f3995e979629bda86a9332
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rafaela\\AndroidStudioProjects\\OpenDoorApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2198e5fcd78e9aea23afb3ced37bb19bfd9d81fb\\classes.dex
+base.1=C\:\\Users\\Rafaela\\AndroidStudioProjects\\OpenDoorApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2198e5fcd78e9aea23afb3ced37bb19bfd9d81fb
+file.0=C\:\\Users\\Rafaela\\AndroidStudioProjects\\OpenDoorApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eccb7b1c4399063bb4f3995e979629bda86a9332\\classes.dex
